@@ -1,2 +1,3 @@
 # SE_COMP_Pract
-this my first WT practical
+This my first WT practical
+     -Ms panchal ds
